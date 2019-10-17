@@ -1,0 +1,11 @@
+{
+  "name": "react-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
